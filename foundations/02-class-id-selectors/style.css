@@ -1,0 +1,20 @@
+.oddElem {
+    background-color: red;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondElem {
+    color: blue;
+    font-size: 36px;
+}
+
+#thirdElem {
+    font-size: 24px;
+}
+
+#fourthElem {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
